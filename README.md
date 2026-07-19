@@ -26,15 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuanaRiscarolli&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaRiscarolli&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 _O que eu pretendo fazer com o meu conhecimento sobre programação?_
  ## Criar jogos, ajudar quem precisa, criar sites e fazer coisas muito daora com aprogramação.
 
