@@ -1,10 +1,7 @@
 # Hey! I'm Luana
 
-**Sou iniciante na programação**  
-🇧🇷 Brasil!
-
+**Sou iniciante na programação** 
 ---
-
 
 <p align="left">
   <a href="https://github.com/LuanaRiscarolli">
@@ -38,9 +35,7 @@
 
 ---
 
-## O que eu pretendo fazer com o meu conhecimento sobre programação
-
-> _"Criar jogos, ajudar quem precisa, criar sites e fazer coisas muito daora com aprogramação. 
-> "_
+_O que eu pretendo fazer com o meu conhecimento sobre programação?_
+ ## Criar jogos, ajudar quem precisa, criar sites e fazer coisas muito daora com aprogramação.
 
 
