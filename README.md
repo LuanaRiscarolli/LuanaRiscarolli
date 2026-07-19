@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9370db&text=Luana%20Riscarolli&fontColor=ffff&section=header&reversal=false&textBg=false&fontAlign=50&fontAlignY=42&animation=fadeIn"/>
+
 # Hey! I'm Luana
 
 **Sou iniciante na programação** 
