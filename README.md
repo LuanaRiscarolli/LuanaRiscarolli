@@ -3,6 +3,8 @@
 # Hey! I'm Luana
 
 **Sou iniciante na programação** 
+
+<img align="right" height="450" src="https://imgur.com/a/9oOA863" />
 ---
 
 <p align="left">
